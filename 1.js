@@ -5,3 +5,4 @@ function addNum(a, b) {
 
 console.log (addNum(1, 5));
 
+//yo this is a comment too
