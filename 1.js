@@ -1,4 +1,4 @@
-const test = test
+const test = test;
 function minusNum(a, b) {
   return a-b;
 }
