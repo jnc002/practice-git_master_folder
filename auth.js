@@ -5,3 +5,5 @@ function auth(login, password) {
     return 'login incorrect'
   }
 }
+
+//nice
